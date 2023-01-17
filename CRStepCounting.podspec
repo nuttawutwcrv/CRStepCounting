@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   spec.license      = "MIT (example)"
   spec.author       = { "Nuttawut" => "nuttawut.cariva@gmail.com" }
 
-  spec.source        = { :git => "https://github.com/nuttawutwcrv/CRStepCounting.git", :branch => "develop", :tag => s.version.to_s}
+  spec.source        = { :git => "https://github.com/nuttawutwcrv/CRStepCounting.git", :branch => "develop", :tag => spec.version.to_s}
   spec.source_files  = "CRStepCounting/**/*.{swift}"
   spec.resources     = "CRStepCounting/**/*.{xcassets,storyboard,xib,xcdatamodeld,lproj}"
 
