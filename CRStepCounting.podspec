@@ -12,8 +12,8 @@ Pod::Spec.new do |spec|
   spec.version      = "0.0.1"
   spec.summary      = "A short description of CRStepCounting."
 
-  spec.homepage     = "http://EXAMPLE/CRStepCounting"
-  spec.license      = "MIT (example)"
+  spec.homepage     = "https://www.google.com"
+  spec.license      = "CARIVAXX"
   spec.author       = { "Nuttawut" => "nuttawut.cariva@gmail.com" }
 
   spec.source        = { :git => "https://github.com/nuttawutwcrv/CRStepCounting.git", :branch => "develop", :tag => spec.version.to_s}
